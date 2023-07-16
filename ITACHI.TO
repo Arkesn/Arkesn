@@ -1,0 +1,459 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Watch Anime Online, Free Anime Streaming Online on ITACHI.to Anime Website</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="robots" content="index,follow"/>
+<meta http-equiv="content-language" content="en"/>
+<meta name="description" content="Itach is a Free anime streaming website which you can watch English Subbed and Dubbed Anime online with No Account and Daily update. WATCH NOW!"/>
+<meta name="keywords" content="anime to watch, watch anime,anime online, free anime online, online anime, anime streaming, stream anime online, english anime, english dubbed anime"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="https://Itachi.to/"/>
+<meta property="og:title" content="Watch Anime Online, Free Anime Streaming Online on ITACHI.to Anime Website"/>
+<meta property="og:image" content="https://ITACHI.to/images/capture.png"/>
+<meta property="og:image:width" content="650">
+<meta property="og:image:height" content="350">
+<meta property="og:description" content="Aniwatch is a Free anime streaming website which you can watch English Subbed and Dubbed Anime online with No Account and Daily update. WATCH NOW!"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1"/>
+<meta name="apple-mobile-web-app-status-bar" content="#202125">
+<meta name="theme-color" content="#202125">
+<link rel="shortcut icon" href="/images/favicon.png?v=0.1" type="image/x-icon"/>
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png?v=0.1">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="mask-icon" href="/safari-pinned-tab.svg?v=0.1" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<link rel="icon" sizes="192x192" href="/images/android-chrome-192x192.png">
+<link rel="icon" sizes="512x512" href="/images/android-chrome-512x512.png">
+<link rel="manifest" href="/manifest.json?v=0.3">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-NCRY038TTP"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-NCRY038TTP');
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "url": "https://aniwatch.to/",
+        "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://aniwatch.to/search?keyword={keyword}",
+            "query-input": "required name=keyword"
+        }
+    }
+</script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+    <link rel="stylesheet" href="/css/home.css?v=0.8">
+</head>
+<body>
+<div id="xwrapper">
+    <!--Begin: Header-->
+    <div id="xheader">
+        <div class="container">
+            <div id="xheader_browser">
+                <div class="header-btn"><i class="fas fa-bars mr-2"></i>Menu</div>
+            </div>
+            <div id="xheader_menu">
+                <ul class="nav header_menu-list">
+                    <li class="nav-item"><a href="/home" title="Home">Home</a></li>
+                    <li class="nav-item"><a href="/movie" title="Movies">Movies</a></li>
+                    <li class="nav-item"><a href="/tv" title="TV Series">TV Series</a></li>
+                    <li class="nav-item"><a href="/most-popular" title="Most Popular">Most Popular</a></li>
+                    <li class="nav-item"><a href="/top-airing" title="Top Airing">Top Airing</a></li>
+                </ul>
+                <div class="clearfix"></div>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <!--End: Header-->
+    <!--Begin: Main-->
+    <div id="xmain-wrapper">
+        <div id="mw-top">
+            <div class="container">
+                <div class="mwt-content">
+                    <div class="mwt-icon"><img src="/images/anw-min.webp" alt="aniwatch"></div>
+                    <div class="mwh-logo">
+                        <a href="/home" class="mwh-logo-div">
+                            <img src="/images/logo.png" alt="AniWatch">
+                        </a>
+                        <div class="clearfix"></div>
+                    </div>
+                    <div id="xsearch" class="home-search">
+                        <div class="search-content">
+                            <form action="/search" autocomplete="off" id="search-form">
+                                <div class="search-submit">
+                                    <div class="search-icon btn-search"><i class="fa fa-search"></i></div>
+                                </div>
+                                <input type="text" class="form-control search-input" name="keyword"
+                                       placeholder="Search anime..." required>
+                            </form>
+                        </div>
+                        <div class="xhashtag">
+                            <span class="title">Top search:</span>
+                            
+                                <a href="/search?keyword=One%20Piece"
+                                   class="item">One Piece</a>
+                            
+                                <a href="/search?keyword=Zom%20100%3A%20Bucket%20List%20of%20the%20Dead"
+                                   class="item">Zom 100: Bucket List of the Dead</a>
+                            
+                                <a href="/search?keyword=Jujutsu%20Kaisen%202nd%20Season"
+                                   class="item">Jujutsu Kaisen 2nd Season</a>
+                            
+                                <a href="/search?keyword=Bleach%3A%20Thousand-Year%20Blood%20War%20-%20The%20Separation"
+                                   class="item">Bleach: Thousand-Year Blood War - The Separation</a>
+                            
+                                <a href="/search?keyword=Naruto%3A%20Shippuden"
+                                   class="item">Naruto: Shippuden</a>
+                            
+                                <a href="/search?keyword=Naruto"
+                                   class="item">Naruto</a>
+                            
+                                <a href="/search?keyword=Hell&#39;s%20Paradise"
+                                   class="item">Hell&#39;s Paradise</a>
+                            
+                                <a href="/search?keyword=Black%20Clover"
+                                   class="item">Black Clover</a>
+                            
+                                <a href="/search?keyword=Jujutsu%20Kaisen%20(TV)"
+                                   class="item">Jujutsu Kaisen (TV)</a>
+                            
+                                <a href="/search?keyword=Am%20I%20Actually%20the%20Strongest%3F"
+                                   class="item">Am I Actually the Strongest?</a>
+                            
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="mw-body">
+            <div class="container">
+                <div id="action-button">
+                    <a href="/home" class="btn btn-lg btn-radius btn-primary">View Full Site <i
+                                class="fas fa-arrow-circle-right ml-2"></i></a>
+                </div>
+                <div class="share-buttons share-buttons-detail">
+                    <div class="share-buttons-block">
+                        <div class="share-icon"></div>
+                        <div class="sbb-title mr-3">
+                            <span>Share AniWatch</span>
+                            <p class="mb-0">to your friends</p>
+                        </div>
+                        <div class="sbb-social">
+                            <div class="sharethis-inline-share-buttons"></div>
+                        </div>
+                        <div class="clearfix"></div>
+                    </div>
+                </div>
+                <div class="mwb-2col">
+                    <div class="mwb-left">
+                        <h1 class="mw-heading">AniWatch.to - The best site to watch anime online for Free</h1>
+                        <p>Do you know that according to Google, the monthly search volume for anime related topics is
+                            up to over 1 Billion times? Anime is famous worldwide and it is no wonder we've seen a sharp
+                            rise in the number of free anime streaming sites.</p>
+                        <p>Just like free online movie streaming sites, anime watching sites are not created equally,
+                            some are better than the rest, so we've decided to build AniWatch.to to be one of the best free
+                            anime streaming site for all anime fans on the world.</p>
+                        <h2>1/ What is AniWatch.to?</h2>
+                        <p>AniWatch.to is a free site to watch anime and you can even download subbed or dubbed anime in
+                            ultra HD quality without any registration or payment. By having only one ads in all kinds, we are
+                            trying to make it the safest site for free anime.</p>
+                        <h2>2/ Is AniWatch.to safe?</h2>
+                        <p>Yes we are, we do have only one Ads to cover the server cost and we keep scanning the ads
+                            24/7 to make sure all are clean, If you find any ads that is suspicious, please forward us
+                            the info and we will remove it.</p>
+                        <h2>3/ So what make AniWatch.to the best site to watch anime free online?</h2>
+                        <p>Before building AniWatch.to, we've checked many other free anime sites, and learnt from them. We
+                            only keep the good things and remove all the bad things from all the competitors, to put it
+                            in our AniWatch website. Let's see how we're so confident about being the best site for anime
+                            streaming:</p>
+                        <ul>
+                            <li><strong>Safety:</strong> We try our best to not having harmful ads on AniWatch.
+                            </li>
+                            <li><strong>Content library:</strong> Our main focus is anime. You can find here popular,
+                                classic, as well as current titles from all genres such as action, drama, kids, fantasy,
+                                horror, mystery, police, romance, school, comedy, music, game and many more. All these
+                                titles come with English subtitles or are dubbed in many languages.
+                            </li>
+                            <li><strong>Quality/Resolution:</strong> All titles are in excellent resolution, the best
+                                quality possible. AniWatch.to also has a quality setting function to make sure our users can
+                                enjoy streaming no matter how fast your Internet speed is. You can stream the anime at
+                                360p if your Internet is being ridiculous, Or if it is good, you can go with 720p or
+                                even 1080p anime.
+                            </li>
+                            <li><strong>Streaming experience:</strong> Compared to other anime streaming sites, the
+                                loading speed at AniWatch.to is faster. Downloading is just as easy as streaming, you won't
+                                have any problem saving the videos to watch offline later.
+                            </li>
+                            <li><strong>Updates:</strong> We updates new titles as well as fulfill the requests on a
+                                daily basis so be warned, you will never run out of what to watch on AniWatch.
+                            </li>
+                            <li><strong>User interface:</strong> Our UI and UX makes it easy for anyone, no matter how
+                                old you are, how long have you been on the Internet. Literally, you can figure out how
+                                to navigate our site after a quick look. If you want to watch a specific title, search
+                                for it via the search box. If you want to look for suggestions, you can use the site's
+                                categories or simply scroll down for new releases.
+                            </li>
+                            <li><strong>Device compatibility:</strong> AniWatch works alright on both your mobile and
+                                desktop. However, we'd recommend you use your desktop for a smoother streaming
+                                experience.
+                            </li>
+                            <li><strong>Customer care:</strong> We are in active mode 24/7. You can always contact us
+                                for any help, query, or business-related inquiry. On our previous projects, we were
+                                known for our great customer service as we were quick to fix broken links or upload
+                                requested content.
+                            </li>
+                        </ul>
+                        <p>So if you're looking for a trustworthy and safe site for your Anime streaming, let's give
+                            AniWatch.to a try. And if you like us, please help us to spread the words and do not forget to
+                            bookmark our site.</p>
+                        <p>Thank you!</p>
+                        <p>&nbsp;</p>
+                    </div>
+                    <div class="mwb-right">
+                        <div class="zr-connect zr-connect-list">
+                            <h2 class="heading-news">Trending Posts</h2>
+                            <div class="connecting-list">
+                                
+<div class="item">
+    <div class="gi-top d-flex justify-content-between align-items-center">
+        <div class="ztag">
+            <span class="zt-yellow mr-2">#Question</span>
+            <div class="time d-inline"><span><i
+                            class="dot mr-2"></i>14 hours ago</span></div>
+        </div>
+        <div class="gi-stats d-flex align-items-center">
+            <div class="ml-4"><i class="fas fa-comment mr-1"></i>343</div>
+        </div>
+    </div>
+    <h4 class="item-name"><a href="/community/post/anime-quiz-116424" title="Anime Quiz?/">Anime Quiz?/</a></h4>
+    <div class="subject">
+        <div>Shoot your hardest question....lets see how many i get right....others can also answer</div>
+    </div>
+    <div class="cn-owner">
+        <div class="profile-avatar">
+            <img src="https://img.flawlessfiles.com/_r/100x100/100/avatar/zoro_chibi/avatar-03.png"
+                 alt="Roronoa_zor0">
+        </div>
+        
+
+    <a href="/community/user/2791795" target="_blank" class="user-name is-level-x is-level-a">
+        <i class="badg-level level-a up-2"></i>
+        Roronoa_zor0
+        
+            <span>Crab</span>
+        
+    </a>
+    
+
+    </div>
+</div>
+
+<div class="item">
+    <div class="gi-top d-flex justify-content-between align-items-center">
+        <div class="ztag">
+            <span class="zt-yellow mr-2">#Question</span>
+            <div class="time d-inline"><span><i
+                            class="dot mr-2"></i>5 hours ago</span></div>
+        </div>
+        <div class="gi-stats d-flex align-items-center">
+            <div class="ml-4"><i class="fas fa-comment mr-1"></i>26</div>
+        </div>
+    </div>
+    <h4 class="item-name"><a href="/community/post/favourite-fight-116605" title="Favourite Fight?">Favourite Fight?</a></h4>
+    <div class="subject">
+        <div>Mention Your favourite fight from any anime you have watched so far!⚔</div>
+    </div>
+    <div class="cn-owner">
+        <div class="profile-avatar">
+            <img src="https://img.flawlessfiles.com/_r/100x100/100/avatar/zoro_normal/av-zz-04.jpeg"
+                 alt="TheKingOfHell">
+        </div>
+        
+
+    <a href="/community/user/4985810" target="_blank" class="user-name is-level-x is-level-a">
+        <i class="badg-level level-a"></i>
+        TheKingOfHell
+        
+            <span>Angelfish</span>
+        
+    </a>
+    
+
+    </div>
+</div>
+
+<div class="item">
+    <div class="gi-top d-flex justify-content-between align-items-center">
+        <div class="ztag">
+            <span class="zt-green mr-2">#Suggestion</span>
+            <div class="time d-inline"><span><i
+                            class="dot mr-2"></i>2 hours ago</span></div>
+        </div>
+        <div class="gi-stats d-flex align-items-center">
+            <div class="ml-4"><i class="fas fa-comment mr-1"></i>7</div>
+        </div>
+    </div>
+    <h4 class="item-name"><a href="/community/post/give-me-likes-116669" title="Give me likes😂😂">Give me likes😂😂</a></h4>
+    <div class="subject">
+        <div>Give likes because I need them😂😎</div>
+    </div>
+    <div class="cn-owner">
+        <div class="profile-avatar">
+            <img src="https://img.flawlessfiles.com/_r/100x100/100/avatar/one_piece/user-03.jpeg"
+                 alt="Mr.Prince">
+        </div>
+        
+
+    <a href="/community/user/4623533" target="_blank" class="user-name">Mr.Prince</a>
+    
+
+    </div>
+</div>
+
+<div class="item">
+    <div class="gi-top d-flex justify-content-between align-items-center">
+        <div class="ztag">
+            <span class="zt-purple mr-2">#Discussion</span>
+            <div class="time d-inline"><span><i
+                            class="dot mr-2"></i>4 hours ago</span></div>
+        </div>
+        <div class="gi-stats d-flex align-items-center">
+            <div class="ml-4"><i class="fas fa-comment mr-1"></i>11</div>
+        </div>
+    </div>
+    <h4 class="item-name"><a href="/community/post/best-side-characters-in-your-opinion-116633" title="Best side characters in your opinion💕">Best side characters in your opinion💕</a></h4>
+    <div class="subject">
+        <div>I think it should be levi from attack on Titan:)))</div>
+    </div>
+    <div class="cn-owner">
+        <div class="profile-avatar">
+            <img src="https://img.flawlessfiles.com/_r/100x100/100/avatar/demon_splayer/File13.jpg"
+                 alt="EITHEL🤍">
+        </div>
+        
+
+    <a href="/community/user/4556823" target="_blank" class="user-name">EITHEL🤍</a>
+    
+
+    </div>
+</div>
+
+<div class="item">
+    <div class="gi-top d-flex justify-content-between align-items-center">
+        <div class="ztag">
+            <span class="zt-blue mr-2">#General</span>
+            <div class="time d-inline"><span><i
+                            class="dot mr-2"></i>14 hours ago</span></div>
+        </div>
+        <div class="gi-stats d-flex align-items-center">
+            <div class="ml-4"><i class="fas fa-comment mr-1"></i>74</div>
+        </div>
+    </div>
+    <h4 class="item-name"><a href="/community/post/biggest-let-down-anime-for-you-116418" title="Biggest let down anime for you????????????">Biggest let down anime for you????????????</a></h4>
+    <div class="subject">
+        <div>for me its Sword art online</div>
+    </div>
+    <div class="cn-owner">
+        <div class="profile-avatar">
+            <img src="https://img.flawlessfiles.com/_r/100x100/100/avatar/zoro_chibi/avatar-03.png"
+                 alt="Roronoa_zor0">
+        </div>
+        
+
+    <a href="/community/user/2791795" target="_blank" class="user-name is-level-x is-level-a">
+        <i class="badg-level level-a up-2"></i>
+        Roronoa_zor0
+        
+            <span>Crab</span>
+        
+    </a>
+    
+
+    </div>
+</div>
+
+<div class="item">
+    <div class="gi-top d-flex justify-content-between align-items-center">
+        <div class="ztag">
+            <span class="zt-yellow mr-2">#Question</span>
+            <div class="time d-inline"><span><i
+                            class="dot mr-2"></i>11 hours ago</span></div>
+        </div>
+        <div class="gi-stats d-flex align-items-center">
+            <div class="ml-4"><i class="fas fa-comment mr-1"></i>54</div>
+        </div>
+    </div>
+    <h4 class="item-name"><a href="/community/post/best-hentai-show-plz-116495" title="best hentai show plz">best hentai show plz</a></h4>
+    <div class="subject">
+        <div>help me expand my watch list</div>
+    </div>
+    <div class="cn-owner">
+        <div class="profile-avatar">
+            <img src="https://img.flawlessfiles.com/_r/100x100/100/avatar/chainsaw/05.png"
+                 alt="bhris">
+        </div>
+        
+
+    <a href="/community/user/2835457" target="_blank" class="user-name">bhris</a>
+    
+
+    </div>
+</div>
+
+                            </div>
+                            <div class="d-block">
+                                <a href="/community/board"
+                                   class="btn btn-sm py-2 btn-block btn-radius btn-blank text-white"
+                                   style="background-color: rgba(255,255,255,.1);">Read more</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--End: Main-->
+    <!--Begin: Footer-->
+    <div id="xfooter-about">
+        <div class="container">
+            <p class="copyright">© AniWatch.to. All rights reserved.</p>
+        </div>
+    </div>
+    <!--End: Footer-->
+</div>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script>
+<script type="text/javascript"
+        src="https://platform-api.sharethis.com/js/sharethis.js#property=64a3d891df473b0019d1b0da&product=inline-share-buttons&source=platform"
+        async="async"></script>
+<script>
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function () {
+            navigator.serviceWorker.register('/sw.js?v=0.5');
+        });
+    }
+    $(document).ready(function () {
+        $("#xheader_browser").click(function (e) {
+            $("#xheader_menu, #xheader_browser").toggleClass("active");
+        });
+        $('.btn-search').click(function () {
+            if ($('.search-input').val().trim() !== "") {
+                $('#search-form').submit();
+            }
+        });
+    });
+</script>
+<script type="text/javascript" src="//potsaglu.net/5/5419283" async data-cfasync="false" defer></script>
+</body>
+</html>
